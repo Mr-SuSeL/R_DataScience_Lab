@@ -16,3 +16,5 @@ ggplot(data = delays, mapping = aes(x = dist, y = delay)) +
   geom_smooth(se = FALSE)
 
 
+
+
